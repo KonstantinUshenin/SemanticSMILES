@@ -1,0 +1,26 @@
+# Secrets
+.env
+**/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+
+# Notebook / IDE
+.ipynb_checkpoints/
+.DS_Store
+
+# Rebuilt or downloaded molecule dumps (not redistributed)
+**/SemanticSMILES.csv
+**/all_data.csv
+
+# Local source downloads and pipeline outputs
+code/workspace/
+code/workspace_DATA/
+code/workspace_SUMMARY/
+workspace/
+workspace_DATA/
+workspace_SUMMARY/

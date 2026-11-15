@@ -1,0 +1,3 @@
+workspace: /path/to/workspace
+workspace_data: /path/to/workspace_DATA
+workspace_summary: /path/to/workspace_SUMMARY
